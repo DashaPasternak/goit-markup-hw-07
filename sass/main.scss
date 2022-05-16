@@ -1,0 +1,23 @@
+@import "./utils/variables";
+@import "./base/reset";
+@import "./base/common";
+
+@import"./components/container";
+@import "./utils/visually";
+@import "./components/section";
+@import "./components/btn";
+
+@import "./layout/header";
+@import "./components/logo";
+@import "./layout/hero";
+@import "./layout/about";
+@import "./layout/activity";
+@import "./layout/company";
+@import "./layout/clients";
+@import "./layout/footer";
+
+@import "./components/portfolio-btn";
+@import "./layout/portfolio";
+
+@import "./components/backdrop";
+@import "./components/modal";

@@ -18,11 +18,12 @@
     &__item:not(:last-child) {
         margin-right: 30px;
     }
-    .&__text {
+    &__text {
         position: absolute;
         background-color: rgba(47, 48, 58, 0.8);
         color: var(--main-title-color);
         font-weight: 700;
+        font-size: 14px;
         line-height: 1.17;
         text-transform: uppercase;
         height: 70px;

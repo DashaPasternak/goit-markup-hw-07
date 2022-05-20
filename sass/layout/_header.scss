@@ -1,10 +1,11 @@
 
   .header {
-    border-bottom: 1px solid #EEEEEE
-    & .container {
-      display: flex;
-      align-items: center;
-  }
+    border-bottom: 1px solid #EEEEEE;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
 }
 
 .navigation {
